@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "Droplets",
+    "title": "Düzenli Bakım",
+    "description": "Havuzunuzu mükemmel durumda tutmak için haftalık temizlik ve bakım"
+  },
+  {
+    "icon": "Thermometer",
+    "title": "Su Testi",
+    "description": "Profesyonel su kimyası testi ve dengeleme hizmetleri"
+  },
+  {
+    "icon": "TestTube",
+    "title": "Kimyasal Tedavi",
+    "description": "Güvenli ve temiz su sağlamak için uzman kimyasal tedavi"
+  },
+  {
+    "icon": "Wrench",
+    "title": "Ekipman Onarımı",
+    "description": "Tüm havuz ekipmanları ve sistemlerinin onarımı ve bakımı"
+  }
+]

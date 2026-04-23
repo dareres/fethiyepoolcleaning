@@ -1,0 +1,22 @@
+[
+    {
+      "icon": "Droplets",
+      "title": "Regular Maintenance",
+      "description": "Weekly pool cleaning and maintenance to keep your pool in perfect condition"
+    },
+    {
+      "icon": "Thermometer",
+      "title": "Water Testing",
+      "description": "Professional water chemistry testing and balancing services"
+    },
+    {
+      "icon": "TestTube",
+      "title": "Chemical Treatment",
+      "description": "Expert chemical treatment to maintain safe and clean water"
+    },
+    {
+      "icon": "Wrench",
+      "title": "Equipment Repair",
+      "description": "Repair and maintenance of all pool equipment and systems"
+    }
+  ]
